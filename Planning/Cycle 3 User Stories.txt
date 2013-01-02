@@ -1,0 +1,5 @@
+User Stories:
+
+- When a user clicks "next" on Worker Setup frame the month of scheduling is then generated. - 4 hours
+
+- When the schedule is generated the calendar is displayed with the month of schedule. - 4 hours

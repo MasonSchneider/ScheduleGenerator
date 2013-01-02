@@ -1,0 +1,13 @@
+User Stories 4:
+
+- When a user clicks the "next" button on WorkerSetup, data is stored in the schedule_data file. - 1 hour
+
+- When a user opens the program after generating the schedule data, the program opens using the stored data. - 2 hours
+
+- The user can cycle through months of scheduling with the "<" and ">" keys. - 30 min.
+
+- When the user presses "Generate > Generate Text", a .txt file is created with the schedule info. - 2 hours
+
+- When the user presses "Generate > Generate Web Page", a .html file is created with the schedule info. - 3 hours
+
+- When the user presses a job/worker text field, a drop-down box allows them to change the worker for that job. - 2 hours

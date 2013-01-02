@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #333;
+}
+#middle {
+	width: 80%;
+	height: 80%;
+	text-align: center;
+}
+
+#container {
+	height: 100%;
+	width: 100%;
+}
+.day {
+	text-align: center;
+	vertical-align: top;
+	color: #FFF;
+	font-size: 18px;
+}
+#monthName {
+	font-size: 48px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+#left {
+	width: 5%;
+	text-align: center;
+}
+#right {
+	width: 3%;
+	text-align: center;
+}
+#head {
+	height: 10%;
+	background-color: #333;
+	text-align: center;
+	width: 100%;
+}
+#foot {
+
+}

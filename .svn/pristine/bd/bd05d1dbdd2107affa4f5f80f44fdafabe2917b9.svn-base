@@ -1,0 +1,11 @@
+Status Report 2:
+
+-  User presses "Next" button and a scheduling GUI opens with the option to add workers and schedule their jobs. - 2 Hours - Actual: 3 Hours
+
+-  User presses "Add Worker" button and the window adds a tab for that worker. - 1 Hour - Actual: 1.5 Hours
+
+-  User opens tabs for each day and checks jobs off to fill in a worker's schedule. - 1 Hour - Actual: 1 Hour
+
+-  User presses "Back" button and is returned to the configuration GUI. - 30 mins - Actual: 15 mins
+
+We were also able to develop the worker and most of the schedule class so that we can begin generating a schedule for the calendar.

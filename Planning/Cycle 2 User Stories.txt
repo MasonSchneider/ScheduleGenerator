@@ -1,0 +1,9 @@
+User Stories 2:
+
+-  User presses "Next" button and a scheduling GUI opens with the option to add workers and schedule their jobs. - 2 Hours
+
+-  User presses "Add Worker" button and the window adds a tab for that worker. - 1 Hour
+
+-  User opens tabs for each day and checks jobs off to fill in a worker's schedule. - 1 Hour
+
+-  User presses "Back" button and is returned to the configuration GUI. - 30 mins
