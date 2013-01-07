@@ -1,13 +1,13 @@
 ScheduleGenerator
 =================
 
-This generates schedules based on availability.
-
-Built as a final project for CSSE 221.
-Built as a final project for a computer science course.
-Used to generate a weekly schedule based on the selections made by workers.
-Features: 
-Saves generated calendars
-Ensures all workers work their jobs at least once before repeats 
-Generates a web page with currently generated schedules 
-Allows for dynamic editing and right-click reassignment of workers.
+This generates schedules based on availability.<br>
+<br>
+Built as a final project for CSSE 221.<br>
+Built as a final project for a computer science course.<br>
+Used to generate a weekly schedule based on the selections made by workers.<br>
+Features: <br>
+Saves generated calendars<br>
+Ensures all workers work their jobs at least once before repeats <br>
+Generates a web page with currently generated schedules <br>
+Allows for dynamic editing and right-click reassignment of workers.<br>
